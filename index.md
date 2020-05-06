@@ -21,7 +21,14 @@ This project sought to create a rescaled map of Ptolemy's data regarding geogrpa
 
 **Final Project**
 
-The final project that I completed with my group was topic modelling the Greek vase data. This was to find the topics most common among Greek vases and what they often portray.
+# Topic Modelling Greek Vases #
+
+
+[example](Euthymides.cex)
+
+
+[Link to Delimited Text File](http://shot.holycross.edu/ada-vases.tsv)
+Link to our work on a Jupyter Notebook:
 
 
 **My Binder**
